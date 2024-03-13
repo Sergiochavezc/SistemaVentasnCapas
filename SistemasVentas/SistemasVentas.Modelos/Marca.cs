@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SistemasVentas.Modelos
 {
-    public class Rol
+    public class Marca
     {
-        public int IdRol { get; set; }
+        public int IdMarca { get; set; }
         public string Nombre { get; set; }
         public string Estado { get; set; }
     }
