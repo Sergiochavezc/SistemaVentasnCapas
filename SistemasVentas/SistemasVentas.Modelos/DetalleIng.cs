@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SistemasVentas.Modelos
 {
-    internal class DetalleIng
+    public class DetalleIng
     {
+
     }
 }
